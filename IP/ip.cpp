@@ -17,7 +17,7 @@ struct IP
 
 bool CzyLiczba(string ip)
 {
-    
+     
     cout << "Podaj IP (np.: 255.255.255.255): " << endl;
     cin >> ip;
 
